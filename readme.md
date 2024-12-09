@@ -1,6 +1,6 @@
-[<img src="https://raw.githubusercontent.com/adeojoemmanuel/readme/main/intro.gif" alt="👋 Hi there! I'm (Funmilayo Idoko Deborah(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Funmilayo Idoko Deborah(111|nd Li)|https://github.com)"/>](https://github.com/)
+[<img src="https://raw.githubusercontent.com/adeojoemmanuel/readme/main/intro.gif" alt="👋 Hi there! I'm (Funmilayo Idoko Deborah(111|nd Li)|https://github.com/adeojoemmanuel)" title="👋 Hi there! I'm (Funmilayo Idoko Deborah(111|nd Li)|https://github.com/adeojoemmanuel)"/>](https://github.com/adeojoemmanuel)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=adeojoemmanuel&color=00cf00)
 
 **Funmilayo/Funmilayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) describes my project.
 
