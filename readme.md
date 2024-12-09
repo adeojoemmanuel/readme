@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/adeojoemmanuel/readme/main/intro.gif" alt="👋 Hi there! I'm (Funmilayo Idoko Deborah(111|nd Li)|https://github.com/adeojoemmanuel)" title="👋 Hi there! I'm (Funmilayo Idoko Deborah(111|nd Li)|https://github.com/adeojoemmanuel)"/>](https://github.com/adeojoemmanuel)
+[<img src="https://raw.githubusercontent.com/adeojoemmanuel/readme/main/intro.gif" alt="👋 Hi there! I'm (Funmilayo Idoko Deborah(111|nd Li)|https://github.com/adeojoemmanuel)" title="👋 Hi there! I'm (Funmilayo Idoko Deborah(111|nd Li)|https://github.com/DeborahIdoko)"/>](https://github.com/DeborahIdoko)
 
 
 ![](https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[<img src="https://raw.githubusercontent.com/adeojoemmanuel/readme/refs/heads/main/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/emmanuel-adeojo-98303412b/)
+[<img src="https://raw.githubusercontent.com/adeojoemmanuel/readme/refs/heads/main/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/funmilayo-idoko-1751a7253/)
 [<img src="https://raw.githubusercontent.com/adeojoemmanuel/readme/refs/heads/main/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/qs_jumaiii)
 [<img src="https://raw.githubusercontent.com/adeojoemmanuel/readme/refs/heads/main/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Twitter"/>](https://twitter.com/jumaii3)
 
